@@ -2,6 +2,8 @@
 
 **Strongly recommended to read this document using a Markdown viewer!**
 
+GitHub link: [here](https://github.com/Auroral1224/team_17)
+
 ## 📌 TL;DR
 1. **Setup**: `pip install -r requirements.txt` (Environment: Python 3.10)
 2. **Data**: Place dataset in `code/dataset/` (`train/` and `test/`)

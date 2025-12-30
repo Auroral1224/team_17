@@ -1,0 +1,10 @@
+ipykernel
+pandas
+torch==2.9.1
+torchvision
+open_clip_torch
+pytorch_lightning
+peft
+scikit-learn
+matplotlib
+tqdm
